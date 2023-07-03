@@ -1,0 +1,2 @@
+class AuthorModel < ApplicationRecord
+end
